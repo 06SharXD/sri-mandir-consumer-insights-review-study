@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project_alignment_prompt version="1.0">
+  <purpose>
+    Prepare accurate, role-aligned materials for the Sri Mandir Public Review Analysis &amp; Consumer Insights portfolio project for an AppsForBharat consumer insights or user research role.
+  </purpose>
+  <role_priorities>
+    <priority>Organize user feedback and keep source-linked research records.</priority>
+    <priority>Identify recurring user needs, pain points, preferences, and experience friction.</priority>
+    <priority>Translate evidence into practical product, marketing, and category recommendations.</priority>
+    <priority>Communicate findings clearly to cross-functional stakeholders.</priority>
+    <priority>Structured user calls may be relevant to the role, but do not state or imply that calls were conducted for this project.</priority>
+  </role_priorities>
+  <project_facts>
+    <name>Sri Mandir Public Review Analysis &amp; Consumer Insights</name>
+    <scope>Manual analysis of 10 publicly accessible Sri Mandir Apple App Store review records.</scope>
+    <access_date>2026-11-18</access_date>
+    <sources>
+      <source>https://apps.apple.com/us/app/sri-mandir-puja-chadhava/id1637621461?platform=iphone&amp;see-all=reviews</source>
+      <source>https://apps.apple.com/in/app/sri-mandir-puja-chadhava/id1637621461?platform=iphone&amp;see-all=reviews</source>
+    </sources>
+    <methods>Source-linked review tracking, short excerpts, paraphrased summaries, manual theme coding, confidence labels, Python descriptive counts and charts.</methods>
+    <deliverables>CSV review register, codebook, reproducible analysis, Excel tracker and pivot-ready summaries, insights report, short slide deck, and a guide for future interviews.</deliverables>
+    <interviews>Not conducted. The interview guide is for future real calls only.</interviews>
+    <limitations>The corpus is small, self-selected, storefront-surfaced, and non-representative. It cannot establish prevalence or causality. Individual ratings are left blank when not reliably exposed by the public listing.</limitations>
+  </project_facts>
+  <candidate_facts>
+    <portfolio>https://06sharxd.github.io/sharathc-portfolio/</portfolio>
+    <languages>English, Tamil</languages>
+    <language_constraint>Do not add Telugu, Hindi, or any other language.</language_constraint>
+    <experience>Entrepreneurship Cell board member at IIIT Sri City; B2B outreach, partner coordination, campaign metrics, lead generation, and campus event registrations.</experience>
+    <related_project>Customer Retention Analytics Engine using the IBM Telco Customer Churn dataset, Random Forest baseline, and Power BI dashboard. Reported holdout accuracy 78.54 percent and recall 47.59 percent.</related_project>
+  </candidate_facts>
+  <instructions>
+    <instruction>Use only the verified project and candidate facts above. Do not invent sample size, dates, ratings, interviews, customer outcomes, or experience.</instruction>
+    <instruction>Describe this as public-review analysis, not structured user research interviews or a representative customer study.</instruction>
+    <instruction>Distinguish direct review evidence from interpretation and recommendations.</instruction>
+    <instruction>Use short excerpts only and paraphrase the rest; keep source links attached to evidence.</instruction>
+    <instruction>Do not claim that the candidate satisfies language requirements beyond English and Tamil.</instruction>
+    <instruction>Emphasize feedback organization, qualitative coding, pattern identification, evidence-based recommendations, and clear communication where supported.</instruction>
+  </instructions>
+  <requested_output>
+    <item>A concise project description tailored to the role priorities.</item>
+    <item>Two truthful resume bullets that state the 10-review scope and key deliverables without overstating findings.</item>
+    <item>Three interview talking points that separate evidence, interpretation, and limitations.</item>
+    <item>A brief note identifying structured interviews as a future validation step, not completed work.</item>
+  </requested_output>
+</project_alignment_prompt>
+
